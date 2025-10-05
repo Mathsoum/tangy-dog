@@ -22,7 +22,7 @@ title: The Tangy Dog
 email: mathieu@soum.me
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to The Tangy Dog - Sit back, relax, have a drink and read some of the things crossing my mind
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "tangy-dog" # the subpath of your site, e.g. /blog
 url: "https://tangydog.top" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
